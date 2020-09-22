@@ -1,6 +1,6 @@
 {
-    "name": "ng2-image-viewer",
-    "version": "2.0.0",
+    "name": "ng2-doc-viewer",
+    "version": "1.0.0",
     "scripts": {
         "build": "gulp build",
         "build:watch": "gulp",
@@ -19,8 +19,8 @@
         "url": "https://github.com/jsrgkctech/ng2-doc-viewer"
     },
     "author": {
-        "name": "brenoprata10",
-        "email": "brenoprata10@gmail.com"
+        "name": "Kalyan Gottipati",
+        "email": "gkcinline@gmail.com"
     },
     "keywords": [
         "angular",
